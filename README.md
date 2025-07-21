@@ -1,7 +1,5 @@
 # Linux Debian Scripts
 
-# Linux Debian Scripts
-
 Repositório de scripts Bash desenvolvidos para automação, manutenção e gerenciamento avançado de sistemas Linux baseados em Debian, com foco em ambientes Ubuntu 24.04 LTS.
 
 ## 🔧 Objetivo
