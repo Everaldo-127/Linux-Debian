@@ -10,9 +10,9 @@ Automatizar tarefas críticas de administração de sistemas, otimizando operaç
 
 /
 ├── scripts/ # Scripts Bash para automações diversas
-├── configs/ # Arquivos de configuração (rede, APT, etc.)
+
 ├── docs/ # Documentação técnica complementar
-├── tests/ # Scripts de validação e testes de integridade
+
 └── README.md # Este arquivo
 
 
