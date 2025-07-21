@@ -8,7 +8,6 @@ Automatizar tarefas críticas de administração de sistemas, otimizando operaç
 
 ## 📁 Estrutura do Projeto
 
-/
 ├── scripts/ # Scripts Bash para automações diversas
 
 ├── docs/ # Documentação técnica complementar
